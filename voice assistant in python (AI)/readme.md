@@ -1,5 +1,4 @@
 
-
 # HAM: Your Personal Assistant
 
 HAM (short for **H**elpful **A**ssistant **M**odule) is a personal assistant application built using Python and Streamlit. It provides various features such as Wikipedia search, web browsing, music playback, IMDb movie search, and more, all accessible via voice commands.
@@ -50,8 +49,14 @@ HAM (short for **H**elpful **A**ssistant **M**odule) is a personal assistant app
 - scikit-learn
 - difflib
 
+## Contributors
+
+- [Your Name](https://github.com/yourusername)
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
+---
+
+Feel free to customize the README further with additional details or sections as needed for your project!
